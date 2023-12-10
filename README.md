@@ -1,9 +1,5 @@
 # Financial Control
 
-## Overview
-
-![](./desktop-preview.png)
-
 ### Links
 
 - Solution URL: [Site link](https://financial-control-flavioporfirio86.netlify.app)
